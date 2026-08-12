@@ -16,11 +16,14 @@ Currently, I'm expanding my expertise in **cloud deployment, backend optimizatio
 
 ### What I'm Working On
 
-* 🚀 Developing a **Zerodha Clone** using the MERN Stack
-* ☁️ Learning **AWS**, **Docker**, and modern deployment workflows
-* 📈 Improving backend architecture and API performance
-* 🧠 Exploring **Machine Learning** and **Data Science**
-* 💬 Open to discussions about **JavaScript, React, Node.js, Express, MongoDB, and SQL**
+### What I Do
+
+- 🚀 Engineer scalable Full-Stack web applications using the MERN ecosystem
+- ⚙️ Design maintainable backend architectures and RESTful APIs
+- 📊 Build enterprise-grade dashboards with responsive and intuitive user experiences
+- 🔒 Develop secure authentication and authorization systems using JWT
+- 📈 Optimize application performance, database efficiency, and code maintainability
+- 📖 Continuously learning modern software architecture, distributed systems, and cloud technologies
 
 ---
 
